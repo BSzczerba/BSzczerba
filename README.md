@@ -7,7 +7,7 @@ Skills: C# / JS / C++ / .NET
 - 🔭 I’m currently working on this page. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/bartłomiej-szczerba-44967b271/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](linkedin.com/in/bartłomiej-szczerba-44967b271/)  
 
 
 <!--
