@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Bartłomiej Szczerba
 
-I am Computer Science student at Warsaw School of Computer Science.
+Graduate of the Warsaw School of Computer Science.
 
-Skills: C# / JS / C++ / .NET
+Skills: C# / JS / JAVA / .NET
 
 - 🔭 I’m currently working on this page. 
 
