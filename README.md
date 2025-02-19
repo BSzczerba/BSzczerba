@@ -2,7 +2,7 @@
 
 Graduate of the Warsaw School of Computer Science.
 
-Skills: C# / JS / JAVA / .NET
+Skills: C# / JS / .NET
 
 - 🔭 I’m currently working on this page. 
 
